@@ -17,14 +17,13 @@ Follow these instructions to set up and run the project locally.
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/USERNAME/REPOSITORY_NAME.git
-    cd REPOSITORY_NAME
+    git clone https://github.com/amamFz/Fullstack-vue-crud.git
     ```
 
 2. Set up environment variables:
 
     ```bash
-    cd backend
+    cd backend-express
     cp .env.example .env
     ```
 
@@ -52,7 +51,7 @@ Follow these instructions to set up and run the project locally.
 5. Install frontend dependencies:
 
     ```bash
-    cd ../frontend
+    cd frontend-vue
     npm install
     ```
 
